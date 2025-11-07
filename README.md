@@ -28,10 +28,10 @@ The dashboard enables users, researchers, and analysts to understand how populat
 
 # Tools & Technologies Used
 
-. Microsoft Power BI – for building interactive visualizations and dashboards.
-. Excel / CSV Data Sources – used for population dataset preparation.
-. Visualization Types: Bar charts, Donut charts, KPI cards, and Gauge visuals.
-. Power Query - Data Cleaning and Transformation
+- Microsoft Power BI – for building interactive visualizations and dashboards.
+- Excel / CSV Data Sources – used for population dataset preparation.
+- Visualization Types: Bar charts, Donut charts, KPI cards, and Gauge visuals.
+- Power Query - Data Cleaning and Transformation
 
 # Dashboard Preview
 
