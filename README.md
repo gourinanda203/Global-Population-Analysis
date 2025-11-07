@@ -1,12 +1,12 @@
 # Global-Population-Analysis
-# >GLOBAL POPULATION ANALYSIS – POWER BI DASHBOARD
+# GLOBAL POPULATION ANALYSIS – POWER BI DASHBOARD
  
 >Overview
 
 This project presents a comprehensive Power BI dashboard that visualizes and analyzes global population data across various countries. It provides insights into gender distribution, age demographics, population density, and overall global trends.
 The dashboard enables users, researchers, and analysts to understand how population structures differ worldwide and how they impact socio-economic factors.
 
-# >Key Insights from the Dashboard
+# Key Insights from the Dashboard
 
 1. Male and Female Population (in millions):
    - Compare male and female populations across top countries like India, China, USA, Indonesia, and Pakistan.
@@ -26,14 +26,14 @@ The dashboard enables users, researchers, and analysts to understand how populat
 5. Total Population by Country:
    - Displays global distribution and ranking based on population size.
 
-# >Tools & Technologies Used
+# Tools & Technologies Used
 
 . Microsoft Power BI – for building interactive visualizations and dashboards.
 . Excel / CSV Data Sources – used for population dataset preparation.
 . Visualization Types: Bar charts, Donut charts, KPI cards, and Gauge visuals.
 . Power Query - Data Cleaning and Transformation
 
-# >Dashboard Preview
+# Dashboard Preview
 
 >Objective
 
